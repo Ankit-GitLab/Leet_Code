@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0792-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |

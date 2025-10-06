@@ -42,6 +42,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

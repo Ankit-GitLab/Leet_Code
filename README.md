@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0162-find-peak-element) |
 | [0441-arranging-coins](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0441-arranging-coins) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0792-binary-search) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |

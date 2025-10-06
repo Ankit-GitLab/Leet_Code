@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1646-kth-missing-positive-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ankit-GitLab/Leet_Code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1603-running-sum-of-1d-array) |
+| [1646-kth-missing-positive-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1646-kth-missing-positive-number) |
 | [2048-build-array-from-permutation](https://github.com/Ankit-GitLab/Leet_Code/tree/master/2048-build-array-from-permutation) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ankit-GitLab/Leet_Code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer

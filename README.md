@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0783-search-in-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0792-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
@@ -41,5 +42,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->

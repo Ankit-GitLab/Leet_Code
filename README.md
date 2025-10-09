@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ankit-GitLab/Leet_Code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

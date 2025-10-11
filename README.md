@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0792-binary-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0058-length-of-last-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

@@ -68,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Linked List
@@ -122,7 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

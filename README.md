@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1013-fibonacci-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0086-partition-list) |

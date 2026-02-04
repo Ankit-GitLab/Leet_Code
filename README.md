@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Merge Sort
 |  |

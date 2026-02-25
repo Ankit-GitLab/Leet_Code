@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1646-kth-missing-positive-number) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2048-build-array-from-permutation](https://github.com/Ankit-GitLab/Leet_Code/tree/master/2048-build-array-from-permutation) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ankit-GitLab/Leet_Code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
@@ -162,4 +163,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->

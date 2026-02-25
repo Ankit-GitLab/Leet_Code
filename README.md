@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0001-two-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0682-baseball-game) |
@@ -167,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->

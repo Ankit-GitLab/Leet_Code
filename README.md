@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ankit-GitLab/Leet_Code/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankit-GitLab/Leet_Code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Tree
 |  |

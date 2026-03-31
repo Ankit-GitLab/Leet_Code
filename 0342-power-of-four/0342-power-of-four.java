@@ -1,11 +1,14 @@
 class Solution {
+    boolean isPowerOfTwo(int n){
+        return (n > 0 && (n & (n - 1)) == 0);
+    }
+    
+    boolean isSquare(int n){
+        long root = (long)(Math.sqrt(n));
+        return (root * root == n);
+    }
     
     public boolean isPowerOfFour(int n) {
-        if (n <= 0) return false;
-
-        while (n % 4 == 0) {
-            n = n / 4;
-        }
-        return n == 1;
+        return isPowerOfTwo(n) && isSquare(n);
     }
 }
